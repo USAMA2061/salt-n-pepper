@@ -1,0 +1,178 @@
+
+.span1{
+    font-size: 40px;
+}
+.heading{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    color: white;
+    justify-content: center;
+}
+ul li a{
+    color: white!important;
+    margin: 10px;
+   
+}
+.btn{
+    border-radius: 20px;
+    margin: 5px;
+}
+.fontero{
+    border-radius: 100px;
+    height: 25px;
+    border: none;
+    color: red;
+}
+.collapse{
+    margin-left: 25% !important ;
+}
+.blank{
+    height: 50px;
+}
+/* .class1{
+    height: 200px;
+    width: 200px;
+} */
+.cnt2{
+    background-color: black;
+    color: white;
+}
+.div{
+    background-color: black;
+    color: white;
+}
+.class1 img {
+    max-width: 100%; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, .55);
+    border-color: rgba(0, 0, 0, .1);
+    order: -1;
+}
+.span2{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder ;
+}
+.apan3{
+    font-size: 40px;
+
+}
+.col1{
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+}
+.span3{
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 29px;
+    text-align: center;
+}
+.section{
+    background-image: url(./img/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.section1{
+    background-image: url(./img/bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+span.logo-text-hold {
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+.card1{
+    background-color: black;
+    color: white;
+}
+.justfy{
+    margin: 150px 10px 10px 10px;
+}
+/* footer css */
+.footer {
+    background-color: #020202;
+    padding: 40px 0;
+    color: white;
+  }
+  .footer-logo img {
+    max-width: 150px;
+  }
+  .footer a {
+    color: #6c757d;
+    text-decoration: none;
+  }
+  .footer a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  .footer .social-links a {
+    margin-right: 10px;
+    color: #6c757d;
+  }
+  .footer .social-links a:hover {
+    color: #0056b3;
+  }
+  .footer .app-store img {
+    max-width: 120px;
+  }
+  .footer .app-ios img {
+    max-width: 120px;
+  }
+  .sectionft{
+    background-color: black;
+  }
+  
+
+
+  .insta_custom_section {
+    padding: 40px 0;
+    background-color: #f8f9fa;
+  }
+  .insta_custom_box img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .insta_feeds_heading h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .scroll-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .scroll-to-top:hover {
+    background-color: #0056b3;
+  }
